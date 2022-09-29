@@ -23,10 +23,5 @@ Resources:
 
 Output:
 
-![Screenshot_20220920_222025](https://user-images.githubusercontent.com/110646988/191332089-52660fa1-222b-4760-8618-0530931a7ce5.png)
-
-
-![Screenshot_20220920_222059](https://user-images.githubusercontent.com/110646988/191332109-6b40b949-1fc2-4ed8-87b7-20c120791387.png)
-
-
-![Screenshot_20220920_222106](https://user-images.githubusercontent.com/110646988/191332124-66ada7fe-2be9-462c-bdd9-e2b2193b8de8.png)
+![WhatsApp Image 2022-09-23 at 10 07 28 AM (1)](https://user-images.githubusercontent.com/110647394/192957686-759384a8-a390-4b23-9470-a1587e7a8e34.jpeg)
+![WhatsApp Image 2022-09-23 at 10 07 28 AM](https://user-images.githubusercontent.com/110647394/192957721-d205b0b0-bce1-4abd-aca6-83efde1a2669.jpeg)
